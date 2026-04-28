@@ -2,6 +2,7 @@
 🔭 I'm currently working on — A CNN image classifier in PyTorch and a Spotify-integrated Telegram bot (@SpodifyTrack_bot)<br>👯 I'm looking to collaborate on — Python projects, ML experiments, or anything that ships something real<br>🤝 I'm looking for help with — Deploying Flask apps and scaling ML models beyond the classroom<br>🌱 I'm currently learning — Deep learning (CNNs, PyTorch), REST APIs, and software architecture<br>💬 Ask me about — Python, building Telegram bots, Spotify API, or getting started with ML<br>⚡ Fun fact — I balance debugging neural networks with playing badminton and shooting street photography
 
 
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Nakscott) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/nak_scottttttttttttttt/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tiang-tunvatnak-85a2b2345/?trk=opento_sprofile_topcard) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:2025420taing@aupp.edu.kh (school-email)) 
 
@@ -11,6 +12,9 @@
 ![](https://github-readme-stats.shion.dev/api?username=Vatnak&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Vatnak&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Vatnak&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Vatnak&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Vatnak&limit=5&theme=dark&combine_all_yearly_contributions=true)

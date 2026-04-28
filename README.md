@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on — A CNN image classifier in PyTorch and a Spotify-integrated Telegram bot (@SpodifyTrack_bot)<br>👯 I'm looking to collaborate on — Python projects, ML experiments, or anything that ships something real<br>🤝 I'm looking for help with — Deploying Flask apps and scaling ML models beyond the classroom<br>🌱 I'm currently learning — Deep learning (CNNs, PyTorch), REST APIs, and software architecture<br>💬 Ask me about — Python, building Telegram bots, Spotify API, or getting started with ML<br>⚡ Fun fact — I balance debugging neural networks with playing badminton and shooting street photography
+🔭 I'm currently working on — A CNN image classifier in PyTorch and a Spotify-integrated Telegram bot (@SpodifyTrack_bot), And a student_management_ system using Python and SQL-lite DataBased<br>👯 I'm looking to collaborate on — Python projects, ML experiments, or anything that ships something real<br>🤝 I'm looking for help with — Deploying Flask apps and scaling ML models beyond the classroom<br>🌱 I'm currently learning — Deep learning (CNNs, PyTorch), REST APIs, and software architecture<br>💬 Ask me about — Python, building Telegram bots, Spotify API, or getting started with ML<br>⚡ Fun fact — I balance debugging neural networks with playing badminton and shooting street photography
 
 
 

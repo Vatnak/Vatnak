@@ -23,9 +23,24 @@
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)](https://developer.nvidia.com/cuda-toolkit)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Vatnak&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Vatnak&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Vatnak&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<table>
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/Vatnak">
+        <img src="https://github-readme-stats.shion.dev/api?username=Vatnak&theme=dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://github.com/Vatnak">
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Vatnak&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<a href="https://github.com/Vatnak">
+  <img src="https://streak-stats.demolab.com/?user=Vatnak&theme=dark&hide_border=true" width="49%" />
+</a>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Vatnak&theme=radical&no-frame=false&no-bg=false&margin-w=4)

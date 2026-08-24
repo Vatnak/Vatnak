@@ -1,6 +1,6 @@
 # 💫 About Me:
 🎓 AI undergrad at American University of Phnom Penh (AUPP), Cambodia
-<br>🤖 Interested in ML/AI engineering, applied NLP for Khmer & SEA languages
+<br>🤖 Interested in ML/AI engineering, Designing System Pipeline.
 <br>🛠️ Building projects across ML, web, and automation — sklearn, PyTorch, Flask/FastAPI <br>👯 I'm looking to collaborate on — Python projects, ML engineer, or anything that ships something real<br> 🌱 I'm currently learning — Deep learning (CNNs, PyTorch), REST APIs, and EDA 
 
 
